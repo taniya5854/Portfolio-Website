@@ -6,21 +6,16 @@ This portfolio website serves as a showcase of my projects, skills, and expertis
 ## Table of Contents
 - [General Info](#general-info)
 - [Description](#description)
-- [To-do List](#to-do-list)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Status](#status)
 
 ## General Info
-This website is the culmination of technical writing, user research methodologies, and web development skills. It's a dedicated platform to exhibit my professional background, projects, and skills to potential employers or clients.
+It's a dedicated platform to exhibit my professional background, projects, and skills.
 
 ## Description
-The website acts as a comprehensive portfolio, showcasing a collection of projects I've worked on, skills I've acquired, and experiences I've gained. It presents a user-friendly interface with sections detailing my expertise, a portfolio gallery, and contact information. Future enhancements may involve refining the UI/UX and incorporating additional functionalities for better user engagement.
+The website acts as a comprehensive portfolio, showcasing a collection of projects I've worked on, skills I've acquired, and experiences I've gained. It presents a user-friendly interface with sections detailing my expertise, a portfolio gallery, and contact information.
 
-## To-do List
-1. Implement a refined website based on UX guidelines.
-2. Enhance project display with interactive elements.
-3. Expand the content and projects section for a more comprehensive display.
 
 ## Technologies
 - HTML5
